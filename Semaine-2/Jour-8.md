@@ -3,7 +3,7 @@
 ### Vendredi 2 Mail
 
 
-- [ ] Faire un retour sur les conditions et boucles avec l'ensemble des apprenants
+- [X] Faire un retour sur les conditions et boucles avec l'ensemble des apprenants
 - [ ] Préparer une petite démonstration d’un programme combiné
 
 #### Combinaison des conditions et boucles
